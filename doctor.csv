@@ -1,0 +1,409 @@
+,Unnamed: 0,disease,doctor
+0,0,Fungal infection,Dr. Ana
+1,1,Fungal infection,Dr. Beed
+2,2,Fungal infection,Dr. Cred
+3,3,Fungal infection,Dr. Drake
+4,4,Fungal infection,Dr. Ellie
+5,5,Fungal infection,Dr. Flome
+6,6,Fungal infection,Dr. Green
+7,7,Fungal infection,Dr. Hyde
+8,8,Fungal infection,Dr. Icha
+9,9,Fungal infection,Dr. Jole
+10,10,Allergy,Dr. Kyle
+11,11,Allergy,Dr. Loid
+12,12,Allergy,Dr. Moon
+13,13,Allergy,Dr. Flome
+14,14,Allergy,Dr. Nuan
+15,15,Allergy,Dr. Olaf
+16,16,Allergy,Dr. Olaf
+17,17,Allergy,Dr. Ellie
+18,18,Allergy,Dr. Hyde
+19,19,Allergy,Dr. Hyde
+20,20,GERD,Dr. Jole
+21,21,GERD,Dr. Yale
+22,22,GERD,Dr. Floo
+23,23,GERD,Dr. Tint
+24,24,GERD,Dr. Rich
+25,25,GERD,Dr. Plush
+26,26,GERD,Dr. Wii
+27,27,GERD,Dr. Xi
+28,28,GERD,Dr. Flome
+29,29,GERD,Dr. Ellie
+30,30,Chronic cholestasis,Dr. Jole
+31,31,Chronic cholestasis,Dr. Rich
+32,32,Chronic cholestasis,Dr. Floo
+33,33,Chronic cholestasis,Dr. Tint
+34,34,Chronic cholestasis,Dr. Flome
+35,35,Chronic cholestasis,Dr. Wii
+36,36,Chronic cholestasis,Dr. Moon
+37,37,Chronic cholestasis,Dr. Xi
+38,38,Chronic cholestasis,Dr. Ellie
+39,39,Chronic cholestasis,Dr. Flome
+40,40,Drug Reaction,Dr. Floo
+41,41,Drug Reaction,Dr. Flome
+42,42,Drug Reaction,Dr. Xi
+43,43,Drug Reaction,Dr. Wii
+44,44,Drug Reaction,Dr. Jole
+45,45,Drug Reaction,Dr. Moon
+46,46,Drug Reaction,Dr. Tint
+47,47,Drug Reaction,Dr. Flome
+48,48,Drug Reaction,Dr. Ellie
+49,49,Drug Reaction,Dr. Rich
+50,50,Peptic ulcer disease,Dr. Rich
+51,51,Peptic ulcer disease,Dr. Yale
+52,52,Peptic ulcer disease,Dr. Ginger
+53,53,Peptic ulcer disease,Dr. Jole
+54,54,Peptic ulcer disease,Dr. Flome
+55,55,Peptic ulcer disease,Dr. Beed
+56,56,Peptic ulcer disease,Dr. Floo
+57,57,Peptic ulcer disease,Dr. Ellie
+58,58,Peptic ulcer disease,Dr. Ellie
+59,59,Peptic ulcer disease,Dr. Plush
+60,60,AIDS,Dr. Zing
+61,61,AIDS,Dr. Rich
+62,62,AIDS,Dr. Vaper
+63,63,AIDS,Dr. Flome
+64,64,AIDS,Dr. Floo
+65,65,AIDS,Dr. Ellie
+66,66,AIDS,Dr. Uldas
+67,67,AIDS,Dr. Wii
+68,68,AIDS,Dr. Plush
+69,69,AIDS,Dr. Rich
+70,70,Diabetes,Dr. Plush
+71,71,Diabetes,Dr. Rich
+72,72,Diabetes,Dr. Floo
+73,73,Diabetes,Dr. Tinter
+74,74,Diabetes,Dr. Flome
+75,75,Diabetes,Dr. Uldas
+76,76,Diabetes,Dr. Xi
+77,77,Diabetes,Dr. Ginger
+78,78,Diabetes,Dr. Ellie
+79,79,Diabetes,Dr. Rich
+80,80,Gastroenteritis,Dr. Flome
+81,81,Gastroenteritis,Dr. Jole
+82,82,Gastroenteritis,Dr. Ginger
+83,83,Gastroenteritis,Dr. Floo
+84,84,Gastroenteritis,Dr. Plush
+85,85,Gastroenteritis,Dr. Tint
+86,86,Gastroenteritis,Dr. Ellie
+87,87,Gastroenteritis,Dr. Rich
+88,88,Gastroenteritis,Dr. Plush
+89,89,Gastroenteritis,Dr. Plush
+90,90,Bronchial Asthma,Dr. Xi
+91,91,Bronchial Asthma,Dr. Rich
+92,92,Bronchial Asthma,Dr. Prince
+93,93,Bronchial Asthma,Dr. Flome
+94,94,Bronchial Asthma,Dr. Ellie
+95,95,Bronchial Asthma,Dr. Olaf
+96,96,Bronchial Asthma,Dr. Ellie
+97,97,Bronchial Asthma,Dr. Floo
+98,98,Bronchial Asthma,Dr. Rich
+99,99,Bronchial Asthma,Dr. Yale
+100,100,Hypertension,Dr. Tint
+101,101,Hypertension,Dr. Prince
+102,102,Hypertension,Dr. Floo
+103,103,Hypertension,Dr. Flome
+104,104,Hypertension,Dr. Yale
+105,105,Hypertension,Dr. Waner
+106,106,Hypertension,Dr. Ellie
+107,107,Hypertension,Dr. Gred
+108,108,Hypertension,Dr. Ellie
+109,109,Hypertension,Dr. Rich
+110,110,Migraine,Dr. Yale
+111,111,Migraine,Dr. Flome
+112,112,Migraine,Dr. Gred
+113,113,Migraine,Dr. Olaf
+114,114,Migraine,Dr. Tint
+115,115,Migraine,Dr. Wii
+116,116,Migraine,Dr. Ellie
+117,117,Migraine,Dr. Plush
+118,118,Migraine,Dr. Rich
+119,119,Migraine,Dr. Stim
+120,120,Cervical spondylosis,Dr. Gred
+121,121,Cervical spondylosis,Dr. Rich
+122,122,Cervical spondylosis,Dr. Olaf
+123,123,Cervical spondylosis,Dr. Flome
+124,124,Cervical spondylosis,Dr. Wii
+125,125,Cervical spondylosis,Dr. Ellie
+126,126,Cervical spondylosis,Dr. Xi
+127,127,Cervical spondylosis,Dr. Plush
+128,128,Cervical spondylosis,Dr. Rich
+129,129,Cervical spondylosis,Dr. Plush
+130,130,Paralysis (brain hemorrhage),Dr. Zing
+131,131,Paralysis (brain hemorrhage),Dr. Gred
+132,132,Paralysis (brain hemorrhage),Dr. Olaf
+133,133,Paralysis (brain hemorrhage),Dr. Flome
+134,134,Paralysis (brain hemorrhage),Dr. Xi
+135,135,Paralysis (brain hemorrhage),Dr. Uldas
+136,136,Paralysis (brain hemorrhage),Dr. Xi
+137,137,Paralysis (brain hemorrhage),Dr. Wii
+138,138,Paralysis (brain hemorrhage),Dr. Rich
+139,139,Paralysis (brain hemorrhage),Dr. Stim
+140,140,Jaundice,Dr. Flome
+141,141,Jaundice,Dr. Vaper
+142,142,Jaundice,Dr. Bernard
+143,143,Jaundice,Dr. Adam
+144,144,Jaundice,Dr. Olaf
+145,145,Jaundice,Dr. Queen
+146,146,Jaundice,Dr. Ding
+147,147,Jaundice,Dr. Rich
+148,148,Jaundice,Dr. Brena
+149,149,Jaundice,Dr. Zinger
+150,150,Malaria,Dr. Flome
+151,151,Malaria,Dr. Vaper
+152,152,Malaria,Dr. Bernard
+153,153,Malaria,Dr. Wii
+154,154,Malaria,Dr. Plush
+155,155,Malaria,Dr. Queen
+156,156,Malaria,Dr. Ding
+157,157,Malaria,Dr. Rich
+158,158,Malaria,Dr. Brena
+159,159,Malaria,Dr. Zinger
+160,160,Chicken pox,Dr. Flome
+161,161,Chicken pox,Dr. Xi
+162,162,Chicken pox,Dr. Ding
+163,163,Chicken pox,Dr. Wii
+164,164,Chicken pox,Dr. Xi
+165,165,Chicken pox,Dr. Plush
+166,166,Chicken pox,Dr. Rich
+167,167,Chicken pox,Dr. Plush
+168,168,Chicken pox,Dr. Brena
+169,169,Chicken pox,Dr. Zinger
+170,170,Dengue,Dr. Flome
+171,171,Dengue,Dr. Xi
+172,172,Dengue,Dr. Wii
+173,173,Dengue,Dr. Plush
+174,174,Dengue,Dr. Plush
+175,175,Dengue,Dr. Xi
+176,176,Dengue,Dr. Rich
+177,177,Dengue,Dr. Brena
+178,178,Dengue,Dr. Zinger
+179,179,Dengue,Dr. Steele
+180,180,Typhoid,Dr. Adam
+181,181,Typhoid,Dr. Flome
+182,182,Typhoid,Dr. Xi
+183,183,Typhoid,Dr. Wii
+184,184,Typhoid,Dr. Bernard
+185,185,Typhoid,Dr. Plush
+186,186,Typhoid,Dr. Rich
+187,187,Typhoid,Dr. Zinger
+188,188,Typhoid,Dr. Steele
+189,189,Typhoid,Dr. Queen
+190,190,hepatitis A,Dr. Flome
+191,191,hepatitis A,Dr. Vaper
+192,192,hepatitis A,Dr. Bernard
+193,193,hepatitis A,Dr. Adam
+194,194,hepatitis A,Dr. Clint
+195,195,hepatitis A,Dr. Queen
+196,196,hepatitis A,Dr. Ding
+197,197,hepatitis A,Dr. Rich
+198,198,hepatitis A,Dr. Brena
+199,199,hepatitis A,Dr. Zinger
+200,200,Hepatitis B,Dr. Zing
+201,201,Hepatitis B,Dr. Flome
+202,202,Hepatitis B,Dr. Bernard
+203,203,Hepatitis B,Dr. Vaper
+204,204,Hepatitis B,Dr. Clint
+205,205,Hepatitis B,Dr. Queen
+206,206,Hepatitis B,Dr. Ding
+207,207,Hepatitis B,Dr. Rich
+208,208,Hepatitis B,Dr. Brena
+209,209,Hepatitis B,Dr. Zinger
+210,210,Hepatitis C,Dr. Zing
+211,211,Hepatitis C,Dr. Flome
+212,212,Hepatitis C,Dr. Bernard
+213,213,Hepatitis C,Dr. Vaper
+214,214,Hepatitis C,Dr. Clint
+215,215,Hepatitis C,Dr. Queen
+216,216,Hepatitis C,Dr. Ding
+217,217,Hepatitis C,Dr. Rich
+218,218,Hepatitis C,Dr. Brena
+219,219,Hepatitis C,Dr. Zinger
+220,220,Hepatitis D,Dr. Zing
+221,221,Hepatitis D,Dr. Flome
+222,222,Hepatitis D,Dr. Bernard
+223,223,Hepatitis D,Dr. Vaper
+224,224,Hepatitis D,Dr. Clint
+225,225,Hepatitis D,Dr. Queen
+226,226,Hepatitis D,Dr. Ding
+227,227,Hepatitis D,Dr. Rich
+228,228,Hepatitis D,Dr. Brena
+229,229,Hepatitis D,Dr. Zinger
+230,230,Hepatitis E,Dr. Flome
+231,231,Hepatitis E,Dr. Vaper
+232,232,Hepatitis E,Dr. Bernard
+233,233,Hepatitis E,Dr. Adam
+234,234,Hepatitis E,Dr. Clint
+235,235,Hepatitis E,Dr. Queen
+236,236,Hepatitis E,Dr. Ding
+237,237,Hepatitis E,Dr. Rich
+238,238,Hepatitis E,Dr. Brena
+239,239,Hepatitis E,Dr. Zinger
+240,240,Alcoholic hepatitis,Dr. Dinger
+241,241,Alcoholic hepatitis,Dr. Zing
+242,242,Alcoholic hepatitis,Dr. Flome
+243,243,Alcoholic hepatitis,Dr. Vaper
+244,244,Alcoholic hepatitis,Dr. Bernard
+245,245,Alcoholic hepatitis,Dr. Clint
+246,246,Alcoholic hepatitis,Dr. Xi
+247,247,Alcoholic hepatitis,Dr. Rich
+248,248,Alcoholic hepatitis,Dr. Brena
+249,249,Alcoholic hepatitis,Dr. Zinger
+250,250,Tuberculosis,Dr. Floo
+251,251,Tuberculosis,Dr. Xi
+252,252,Tuberculosis,Dr. Flome
+253,253,Tuberculosis,Dr. Wii
+254,254,Tuberculosis,Dr. Xi
+255,255,Tuberculosis,Dr. Uldas
+256,256,Tuberculosis,Dr. Rich
+257,257,Tuberculosis,Dr. Brena
+258,258,Tuberculosis,Dr. Zinger
+259,259,Tuberculosis,Dr. Steele
+260,260,Common Cold,Dr. Flome
+261,261,Common Cold,Dr. Floo
+262,262,Common Cold,Dr. Wii
+263,263,Common Cold,Dr. Xi
+264,264,Common Cold,Dr. Uldas
+265,265,Common Cold,Dr. Veer
+266,266,Common Cold,Dr. Rich
+267,267,Common Cold,Dr. Brena
+268,268,Common Cold,Dr. Zinger
+269,269,Common Cold,Dr. Steele
+270,270,Pneumonia,Dr. Flome
+271,271,Pneumonia,Dr. Floo
+272,272,Pneumonia,Dr. Wii
+273,273,Pneumonia,Dr. Xi
+274,274,Pneumonia,Dr. Uldas
+275,275,Pneumonia,Dr. Veer
+276,276,Pneumonia,Dr. Rich
+277,277,Pneumonia,Dr. Brena
+278,278,Pneumonia,Dr. Zinger
+279,279,Pneumonia,Dr. Steele
+280,280,Dimorphic hemmorhoids(piles),Dr. Tinter
+281,281,Dimorphic hemmorhoids(piles),Dr. Flome
+282,282,Dimorphic hemmorhoids(piles),Dr. Floo
+283,283,Dimorphic hemmorhoids(piles),Dr. Wii
+284,284,Dimorphic hemmorhoids(piles),Dr. Ellie
+285,285,Dimorphic hemmorhoids(piles),Dr. Plush
+286,286,Dimorphic hemmorhoids(piles),Dr. Rich
+287,287,Dimorphic hemmorhoids(piles),Dr. Plush
+288,288,Dimorphic hemmorhoids(piles),Dr. Zinger
+289,289,Dimorphic hemmorhoids(piles),Dr. Steele
+290,290,Heart attack,Dr. Floo
+291,291,Heart attack,Dr. Prince
+292,292,Heart attack,Dr. Xi
+293,293,Heart attack,Dr. Wii
+294,294,Heart attack,Dr. Xi
+295,295,Heart attack,Dr. Uldas
+296,296,Heart attack,Dr. Flome
+297,297,Heart attack,Dr. Rich
+298,298,Heart attack,Dr. Steele
+299,299,Heart attack,Dr. Plush
+300,300,Varicose veins,Dr. Floo
+301,301,Varicose veins,Dr. Flome
+302,302,Varicose veins,Dr. Xi
+303,303,Varicose veins,Dr. Wii
+304,304,Varicose veins,Dr. Prince
+305,305,Varicose veins,Dr. Xi
+306,306,Varicose veins,Dr. Plush
+307,307,Varicose veins,Dr. Rich
+308,308,Varicose veins,Dr. Steele
+309,309,Varicose veins,Dr. Plush
+310,310,Hypothyroidism,Dr. Floo
+311,311,Hypothyroidism,Dr. Wii
+312,312,Hypothyroidism,Dr. Flome
+313,313,Hypothyroidism,Dr. Xi
+315,315,Hypothyroidism,Dr. Wii
+316,316,Hypothyroidism,Dr. Rich
+317,317,Hypothyroidism,Dr. Steele
+318,318,Hypothyroidism,Dr. Plush
+319,319,Hypothyroidism,Dr. Plush
+320,320,Hyperthyroidism,Dr. Plush
+321,321,Hyperthyroidism,Dr. Wii
+322,322,Hyperthyroidism,Dr. Flome
+323,323,Hyperthyroidism,Dr. Xi
+324,324,Hyperthyroidism,Dr. Tint
+325,325,Hyperthyroidism,Dr. Moon
+326,326,Hyperthyroidism,Dr. Rich
+327,327,Hyperthyroidism,Dr. Steele
+328,328,Hyperthyroidism,Dr. Plush
+329,329,Hyperthyroidism,Dr. Plush
+330,330,Hypoglycemia,Dr. Floo
+331,331,Hypoglycemia,Dr. Bernard
+332,332,Hypoglycemia,Dr. Flome
+333,333,Hypoglycemia,Dr. Uldas
+334,334,Hypoglycemia,Dr. Wii
+335,335,Hypoglycemia,Dr. Rich
+336,336,Hypoglycemia,Dr. Plush
+337,337,Hypoglycemia,Dr. Steele
+338,338,Hypoglycemia,Dr. Plush
+339,339,Hypoglycemia,Dr. Plush
+340,340,Osteoarthristis,Dr. Loid
+341,341,Osteoarthristis,Dr. Moon
+342,342,Osteoarthristis,Dr. Floo
+343,343,Osteoarthristis,Dr. Flome
+344,344,Osteoarthristis,Dr. Ellie
+345,345,Osteoarthristis,Dr. Xi
+346,346,Osteoarthristis,Dr. Rich
+347,347,Osteoarthristis,Dr. Steele
+348,348,Osteoarthristis,Dr. Plush
+349,349,Osteoarthristis,Dr. Plush
+350,350,Arthritis,Dr. Loid
+351,351,Arthritis,Dr. Moon
+352,352,Arthritis,Dr. Floo
+353,353,Arthritis,Dr. Flome
+354,354,Arthritis,Dr. Ellie
+355,355,Arthritis,Dr. Xi
+356,356,Arthritis,Dr. Rich
+357,357,Arthritis,Dr. Steele
+358,358,Arthritis,Dr. Plush
+359,359,Arthritis,Dr. Plush
+360,360,(vertigo) Paroymsal  Positional Vertigo,Dr. Yale
+361,361,(vertigo) Paroymsal  Positional Vertigo,Dr. Prince
+362,362,(vertigo) Paroymsal  Positional Vertigo,Dr. Flome
+363,363,(vertigo) Paroymsal  Positional Vertigo,Dr. Floo
+364,364,(vertigo) Paroymsal  Positional Vertigo,Dr. Ginger
+365,365,(vertigo) Paroymsal  Positional Vertigo,Dr. Rich
+366,366,(vertigo) Paroymsal  Positional Vertigo,Dr. Plush
+367,367,(vertigo) Paroymsal  Positional Vertigo,Dr. Steele
+368,368,(vertigo) Paroymsal  Positional Vertigo,Dr. Stim
+369,369,(vertigo) Paroymsal  Positional Vertigo,Dr. Plush
+370,370,Acne,Dr. Floo
+371,371,Acne,Dr. Plush
+372,372,Acne,Dr. Ginger
+373,373,Acne,Dr. Flome
+374,374,Acne,Dr. Ellie
+375,375,Acne,Dr. Xi
+376,376,Acne,Dr. Plush
+377,377,Acne,Dr. Plush
+378,378,Acne,Dr. Uldas
+379,379,Acne,Dr. Steele
+380,380,Urinary tract infection,Dr. Flome
+381,381,Urinary tract infection,Dr. Floo
+382,382,Urinary tract infection,Dr. Ginger
+383,383,Urinary tract infection,Dr. Tint
+384,384,Urinary tract infection,Dr. Beed
+385,385,Urinary tract infection,Dr. Plush
+386,386,Urinary tract infection,Dr. Rich
+387,387,Urinary tract infection,Dr. Steele
+388,388,Urinary tract infection,Dr. Plush
+389,389,Urinary tract infection,Dr. Uldas
+390,390,Psoriasis,Dr. Loid
+391,391,Psoriasis,Dr. Moon
+392,392,Psoriasis,Dr. Ginger
+393,393,Psoriasis,Dr. Waner
+394,394,Psoriasis,Dr. Flome
+395,395,Psoriasis,Dr. Rich
+396,396,Psoriasis,Dr. Ellie
+397,397,Psoriasis,Dr. Steele
+398,398,Psoriasis,Dr. Stim
+399,399,Psoriasis,Dr. Fade
+400,400,Impetigo,Dr. Fade
+401,401,Impetigo,Dr. Flome
+402,402,Impetigo,Dr. Vaper
+403,403,Impetigo,Dr. Ginger
+404,404,Impetigo,Dr. Cee
+405,405,Impetigo,Dr. Rich
+406,406,Impetigo,Dr. Steele
+407,407,Impetigo,Dr. Wane
+408,408,Impetigo,Dr. Ceedr
